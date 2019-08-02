@@ -1,0 +1,13 @@
+{
+  "name": "Creeper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndyIsCool5463/Creeper.git",
+  "author": "AndyIsCool5463 <andyl5463@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0"
+  }
+}
